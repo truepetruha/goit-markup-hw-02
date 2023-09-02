@@ -1,0 +1,152 @@
+:root {
+--iris: #4D5AE5;
+--ocean: #404BBF;
+--navy-blue: #2E2F42;
+--green: #31D0AA;
+--slate: #434455;
+--light-slate: #8E8F99;
+--cornflower: #E7E9FC;
+--cloud: #F4F4FD;
+--navy-blue-modal: #2E2F4266;
+--grey: #2E2F42B2;
+--white: #fff;
+--dairy: #FCFCFC;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: var(--white);
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    font-family: inherit;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.ourteam {
+    background-color: var(--cloud);
+}
+
+.logo {
+    color: var(--navy-blue);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+}
+
+.logo-accent {
+    color: var(--iris);
+}
+
+.nav-link {
+    color: var(--navy-blue);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.nav-link:active {
+    color: var(--ocean);
+}
+
+.hero-title {
+    color: var(--white);
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+.contact-info a {
+    color: var(--slate);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.contact-info a:active {
+    color: var(--ocean);
+}
+
+.button-primary {
+    color: var(--white);
+    background-color: var(--iris);
+    cursor: pointer;
+    border: 0;
+    padding: 16px 32px;
+    border-radius: 4px;
+}
+
+.button-primary:hover {
+    color: var(--white);
+    background-color: var(--ocean);
+}
+
+.hero-section {
+    background-color: var(--navy-blue);
+    padding: 1440px 600px;
+    text-align: center;
+}
+
+h2 {
+    color: var(--navy-blue)
+}
+
+h3 {
+    color: var(--slate);
+}
+
+footer {
+    color: var(--cloud);
+    background-color: var(--navy-blue)
+}
+
+.logo-footer {
+    color: var(--cloud);
+    font-family: Raleway;
+    background-color: var(--navy-blue);
+}
+
+.logo-accent-foot {
+    color: var(--iris);
+}
+
+.advantage-title {
+    color: var(--navy-blue);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.advantage-text {
+    color: var(--slate);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
