@@ -30,6 +30,10 @@ button {
     text-transform: uppercase;
 }
 
+.logo:focus {
+    color: #404bbf;
+}
+
 .logo-accent {
     color: #2e2f42;
 }
