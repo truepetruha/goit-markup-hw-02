@@ -75,6 +75,10 @@ button {
     font-style: normal;
 }
 
+.address-link-add {
+    font-style: normal;
+}
+
 .contact-info a:hover {
     color: #404bbf;
 }
