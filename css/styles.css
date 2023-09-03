@@ -103,6 +103,7 @@ button {
 }
 
 .ourteam-h2 {
+    color: #2e2f42;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -129,20 +130,11 @@ button {
     letter-spacing: 0.02em;
 }
 
-.our-portfolio-h2 {
-    color: #2E2F42;
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-}
-
 .our-portfolio-h3 {
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
