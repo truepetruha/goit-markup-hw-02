@@ -115,33 +115,6 @@ button {
     background-color: #FFF;
 }
 
-.advantage-title-ourteam {
-    color: #2e2f42;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    
-}
-
-.advantage-text-ourteam {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.our-portfolio-h3 {
-    color: #2e2f42;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.our-portfolio-p {
-    letter-spacing: 0.02em;
-}
-
 .footer {
     color: #F4F4FD;
     background-color: #2E2F42;
