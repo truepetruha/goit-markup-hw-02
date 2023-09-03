@@ -46,7 +46,7 @@ button {
     letter-spacing: 0.02em;
 }
 
-.nav-link:hover {
+.nav-link:hover, .nav-link:focus {
     color: #404bbf;
 }
 
