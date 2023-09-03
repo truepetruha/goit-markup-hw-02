@@ -71,7 +71,7 @@ button {
     color: #404bbf;
 }
 
-.contact-info a:active {
+.contact-info a:focus {
     color: #404BBF;
 }
 
